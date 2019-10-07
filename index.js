@@ -1,4 +1,4 @@
 // Add your Circle class here
-class Circles {
+class Circle {
 
 }
